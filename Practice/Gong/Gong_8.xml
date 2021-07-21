@@ -1,0 +1,30 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_8_Jin">
+			<DisplayName>Loi sur la Sagesse du Grand Chariot</DisplayName>
+			<Desc>Une des principales Lois de la secte Taiyi. Comme la forme du Grand Chariot peut montrer la mort des gens, la contempler fera avancer cette loi. Il accordera au cultivateur une puissance inégalée dans les batailles.</Desc>
+			<SelectDesc>On excelle dans la maîtrise du sabre, mais il faut beaucoup de temps pour le cultiver. Êtes-vous sûr de vouloir suivre cette Loi?</SelectDesc>
+			<Stages.0.DisplayName>Dubhe</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Dubhe</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Merak</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Merak</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Phegda</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Phegda</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages ayant une faible constitution.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Megrez</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Megrez</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Alioth</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Alioth</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages ayant une faible constitution.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Mizar</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Alcor</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.1.DisplayName>Mizar</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>Éclairer son esprit avec la bénédiction du ciel. On fera face à la Tribulation Céleste après avoir franchi cette limite. Cette percée est extrêmement difficile.</Stages.5.Necks.1.Desc>
+			<Stages.6.DisplayName>Alkaid</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Alkaid</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>Laisser le corps mortel derrière soi et s'élever vers l'immortalité.</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>

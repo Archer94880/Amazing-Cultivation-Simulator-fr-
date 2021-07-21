@@ -1,0 +1,10 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>Elemental</Prefix>
+			<Suffix>Lock</Suffix>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the secret body global accuracy.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

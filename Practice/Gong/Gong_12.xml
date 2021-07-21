@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>Loi sur les Symboles Primordiaux</DisplayName>
+			<Desc>Une école d'enseignement que l'on pense être issue de l'Immortel Dore Yunzhong Zi. Elle a trouvé une nouvelle voie en dehors du système traditionnel de culture du Noyau Dore. Saisissant le moment de la percée, on pourrait figer cinq Talismans du Natal, qui ont des usages fascinants.</Desc>
+			<SelectDesc>Au fur et à mesure que vous vous familiarisez avec cette Loi, vous pouvez coaguler Cinq Talismans Natal pour obtenir la bénédiction permanente de la puissance du Talisman. Cependant, la Loi ne s'applique pas dans le domaine de la magie, car elle ne permet pas de combattre.</SelectDesc>
+			<Stages.0.DisplayName>Qi</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Confluence</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages à faible perception.</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Seagazer</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Causalité</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Accumulated</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Constitution.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>First Talisman</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Eau et Feu</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Talisman de Feu</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Talisman de l'Eau</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Core Forming</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Primordial Core</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Natural</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Primordial Talisman</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Pure Yang</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Shapeshifting</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Divine Talisman</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Rising Cloud</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

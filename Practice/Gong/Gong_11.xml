@@ -1,0 +1,31 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>Loi du Raffinement du Tournesol</DisplayName>
+			<Desc>Une des vraies lois élémentaires de la secte Taiyi. Seules les femmes sont autorisées à cultiver cette loi. Utiliser la puissance la plus pure du Yin de la terre pour créer un esprit Yin pur, quitter le corps mortel et s'élever comme un immortel. Si cette loi était pratiquée par un cultivateur masculin, son sexe serait inversé.</Desc>
+			<SelectDesc>Cette loi est adaptée aux femmes. Si elle était pratiquée par un cultivateur masculin, son sexe serait inversé. On excellera dans la maîtrise des artefacts en cultivant dans cette loi, mais on devra faire l'expérience de la première tribulation lors du façonnage du noyau. Êtes-vous sûr de vouloir suivre cette loi?</SelectDesc>
+			<Stages.0.DisplayName>Le Yin Inférieur</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Innocence</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>sympathie</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Sensibilité</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Fair Yin</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Transparence</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Convergence</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages à faible perception.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Formation du Noyau</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Le Yin Supérieur</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Bienfaisance</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sincérité</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Flou</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Oblivion</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Plénitude</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Intégrer la perle de l'âme d'une bête adulte avec un esprit Yin pur et compléter l'étape en utilisant le Qi de Yin pur dans l'orbe.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Transformation</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Transformez-vous en milliers de formes en utilisant la puissance de l'esprit accompli. Réfléchir sur la vie et la mort pour obtenir l'illumination du ciel. [color=#D06508]\nIl est extrêmement difficile de percer, et il n'y aura pas de XP Bonus.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Harmonie</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

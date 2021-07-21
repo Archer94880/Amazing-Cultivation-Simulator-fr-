@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>Champ</DisplayName>
+			<Desc>Des terres agricoles dans le royaume des mortels. Produit du blé.</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>Mine</DisplayName>
+			<Desc>Des mines dans le royaume des mortels. Produit de la pierre brune.</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>Camp de bûcherons</DisplayName>
+			<Desc>Camps d'exploitation forestière dans le royaume des mortels. Produit du bois.</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>Mine de pierre d'esprit</DisplayName>
+			<Desc>Mines de pierres spirituelles dans le royaume des mortels. Produit des pierres spirituelles.</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>Statue</DisplayName>
+			<Desc>La statue d'une divinité. Une fois construite, si un disciple de Shendao a construit le Temple des Miracles dans le Royaume Divin, vous pouvez nommer le disciple pour être possédé ici.</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>Dojo</DisplayName>
+			<Desc>Dojo. Une fois construit, cet endroit peut être utilisé pour l'entraînement des disciples en garnison ici.</Desc>
+		</Text>
+	</List>
+</Texts>

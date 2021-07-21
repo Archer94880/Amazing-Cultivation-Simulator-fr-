@@ -1,0 +1,30 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_3_Jin">
+			<DisplayName>Sept Sabres Meurtriers</DisplayName>
+			<Desc>Selon la légende, il s'agit d'une Loi secrète du royaume des démons pour la réalisation de la maîtrise de l'épée. Elle conduit son adepte à travers sept états. Le début et l'avancement de la culture sont relativement difficiles. On devient très puissant dans les batailles et on a la ferme intention de tuer, ce qui conduit au triple tonnerre extrêmement dangereux de la tribulation. C'est une Loi du tueur absolu.</Desc>
+			<SelectDesc>On excellera dans la maîtrise des artefacts et on deviendra puissant dans les batailles, mais on devra passer par de multiples tribulations célestes à cause de tous les meurtres. Êtes-vous sûr de vouloir suivre cette loi?</SelectDesc>
+			<Stages.0.DisplayName>Coeur de l'Epée</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Coeur de l'Epée</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Trouver sa propre Loi des Sept Sabres Meurtriers avec une détermination sans faille. Si ça tourne mal, recommencez à zéro. [color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages à faible perception. \nL'absence de percée peut entraîner des blessures.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Aura d'Epée</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Aura d'Epée</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Former l'aura de l'épée pour ouvrir la porte de l'esprit avec détermination, en dépensant son énergie pure, son sang et son énergie vitale. [color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages à faible perception. \nL'absence de percée peut entraîner des blessures.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Pilule de l'Epée</Stages.2.DisplayName>
+			<Stages.2.Desc>Condenser l'aura de l'épée dans l'essence de la lame, comme le Noyau Dore combiné avec des éléments variés.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Pilule de l'Epée</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Volonté de l'Epée</Stages.3.DisplayName>
+			<Stages.3.Desc>Le tonnerre de la tribulation tombe lorsque le noyau de l'épée prend forme. Utilisez-le pour former la volonté de l'épée.</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Volonté de l'Epée</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Esprit de l'Epée</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Esprit de l'Epée</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Après la tribulation céleste, revenir à la forme la plus pure et créer l'esprit de l'épée à partir du noyau d'une épée.</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Ame de l'Epée</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Ame de l'Epée</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Utilisez la volonté de l'épée pour voler la Loi céleste de la destruction des tribulations pour atteindre l'état d'un épéiste céleste. En cas de succès, vous ferez face à la colère du ciel - l'ultime tribulation céleste.</Stages.5.Necks.0.Desc>
+			<Stages.6.DisplayName>Esprit de l'Epée</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Esprit de l'Epée</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>Utiliser le Tonnerre Céleste pour forger une âme d'épée comme preuve de la pureté du Yang pour s'élever vers l'immortalité.</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>

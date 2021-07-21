@@ -1,0 +1,22 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Forg_1">
+			<Prefix>Impervious</Prefix>
+			<Suffix>Shadow</Suffix>
+			<Desc>A secret body naturally possessed by frog Yaoguai. Once achieved, it will excel at suppressing artifacts and rarely miss the target.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the secret body's artifact suppression chance by a huge amount.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Forg_2">
+			<Prefix>Demon</Prefix>
+			<Suffix>Howling</Suffix>
+			<Desc>A secret body naturally possessed by frog Yaoguai. Once achieved, it can use the energy of the whole body to generate sound waves containing special True Qi. Excels at dissipating True Qi inside an artifact in order to suppress it.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the artifact suppression chance.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the artifact suppression chance.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Drastically increases the artifact suppression chance.</Levels.2.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,60 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BPQuenchingMethods_test1">
+			<DisplayName>Test Green</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test2">
+			<DisplayName>Test Purple</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test3">
+			<DisplayName>Test Orange</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1">
+			<DisplayName>Acupoint Remold</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1_1">
+			<DisplayName>Remold of Eight Acupoints</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators, equals using Acupoint Remolding for 8 times in a row. Each time the spell is cast, the target part will go through standard remolding eight times, and the last time will result in at least one rare evolution direction.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_2">
+			<DisplayName>Wild Remold</DisplayName>
+			<Desc>Remold spell used by wild demons. Costs more essence to stimulate the physical body in order to create more evolution directions. Each time the spell is cast, the target part will go through remolding once that creates more evolution directions.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_3">
+			<DisplayName>Remold of Six Directions</DisplayName>
+			<Desc>Uses the unity of the six directions to work the essence, which weakens its trait but offers high efficiency. Each time the spell is cast, the target part will go through basic remolding six times.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_4">
+			<DisplayName>Emperor Remold</DisplayName>
+			<Desc>Remold spell invented by the ancient Five Emperors, costs a large amount of essence for its full effect in order to stimulate the body to evolve in rare directions. Each time the spell is cast, the target part will go through remolding once which is more likely to result in advanced evolution.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_5">
+			<DisplayName>Aqua Remold</DisplayName>
+			<Desc>Remolds the body with Derivative Calculation. Each time the spell is cast, the target part will go through standard remolding nine times, and the last time will result in at least one rare evolution direction.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_6">
+			<DisplayName>Purple Star Remold</DisplayName>
+			<Desc>Remolds the body in accordance with the Purple Star Astrology. Each time the spell is cast, the target part will go through standard remolding 14 times, and the last time will result in at least one superb evolution direction.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp1">
+			<DisplayName>Firestruck Remold</DisplayName>
+			<Desc>Uses Firestruck Blood to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the spine, there is a low chance for it to mutate and develop potential for the evolution of all the bones.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp2">
+			<DisplayName>Illusion Remold</DisplayName>
+			<Desc>Uses Illusion Remold to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the brain, there is a low chance for it to mutate and develop potential for the evolution of all the organs.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp3">
+			<DisplayName>Rejection Remold</DisplayName>
+			<Desc>Uses Transcendent Heart to provide Rejected Power to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the heart, there is a low chance for it to mutate and develop potential for the evolution of all the flesh.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_ReQuenching">
+			<DisplayName>Destruction Remold</DisplayName>
+			<Desc>Since the Qi product is rejected by the refiner's body, it uses Immortal Essence to reset all the remolding results in a certain part to return it to the mortal state.</Desc>
+		</Text>
+	</List>
+</Texts>

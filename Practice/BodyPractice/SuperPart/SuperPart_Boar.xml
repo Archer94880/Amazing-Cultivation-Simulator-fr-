@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Boar_1">
+			<Prefix>Blood</Prefix>
+			<Suffix>Bristles</Suffix>
+			<Desc>A secret body naturally possessed by boar Yaoguai that remolds the bristles around the neck with techniques. Once achieved, it can be attached to any attacks to increase the Qi barrier penetration chance of all secret bodies.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Drastically increases the Qi barrier penetration of the physical cultivator's all secret bodies.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Boar_2">
+			<Prefix>Obliteration</Prefix>
+			<Suffix>Tusk</Suffix>
+			<Desc>A secret body naturally possessed by boar Yaoguai that attaches the Force of Destruction to their sharp tusks, one strike will be powerful enough to obliterate anything.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the secret body Qi barrier penetration chance by a huge amount.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

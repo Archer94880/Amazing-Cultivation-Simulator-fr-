@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Policy_TianDaoShenDan">
+			<DisplayName>Apprendre de la nature</DisplayName>
+			<Desc>Observer le ciel nocturne ou le Feng Shui, produire une pilule de l'illumination de temps en temps.</Desc>
+		</Text>
+		<Text Name="Policy_TreasureHunt">
+			<DisplayName>Chasse au trésor</DisplayName>
+			<Desc>Cherchez des trésors rares dans des endroits inexplorés. Chaque trésor requiert une méthode et un niveau d'intelligence différents.</Desc>
+		</Text>
+		<Text Name="Policy_Acceleration">
+			<DisplayName>Travail manuel</DisplayName>
+			<Desc>Envoyez des agents ou des disciples pour superviser le travail manuel. Vous obtiendrez une production supplémentaire de temps en temps. La productivité des champs est affectée par les statistiques agricoles ; celle des mines et des mines de pierres spirituelles par les minéraux ; celle des camps d'exploitation forestière par la population.</Desc>
+		</Text>
+		<Text Name="Policy_Discipline">
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>Un avertissement pour que les gens ne soient pas indulgents et immoraux. Différentes disciplines sont nécessaires dans différentes situations. Son taux de réussite est affecté par les combats.</Desc>
+		</Text>
+		<Text Name="Policy_Secret">
+			<DisplayName>Intrigue</DisplayName>
+			<Desc>Tenter de faire passer les gens qui croient en d'autres sectes de notre côté. Il s'agit soit de perturber l'action d'une autre secte ou organisme, soit de perturber la vie des gens ordinaires. Il faut un haut niveau d'intelligence ou une méthode spéciale pour réussir.</Desc>
+		</Text>
+		<Text Name="Policy_Sermon">
+			<DisplayName>Prédication</DisplayName>
+			<Desc>Parlez aux gens de l'attrait de notre religion. Différents problèmes surgiront et devront être traités. Le résultat est affecté par le charisme, l'attrait et la stabilité.</Desc>
+		</Text>
+		<Text Name="Policy_Give">
+			<DisplayName>Charité</DisplayName>
+			<Desc>Donnez des choses aux personnes qui en ont besoin. Différents problèmes se présenteront et devront être traités. Vous pouvez gagner un petit nombre d'adeptes, d'attrait ou d'influence.</Desc>
+		</Text>
+		<Text Name="Policy_Missionary">
+			<DisplayName>Charité</DisplayName>
+			<Desc>Donnez des choses aux personnes qui en ont besoin. Différents problèmes se présenteront et devront être traités. Vous pouvez gagner un petit nombre d'adeptes, d'attrait ou d'influence.</Desc>
+		</Text>
+		<Text Name="Policy_Submiss">
+			<DisplayName>Incorporate</DisplayName>
+			<Desc>Devenez la seule agence ici. Il y aura divers événements pour tester vos capacités. Essayez de faire progresser l'incorporation, qui sera accomplie lorsqu'elle atteindra 20. Si une étape est ratée, les mortels se sentiront menacés par nous et vous devrez tout recommencer. Si une autre politique est choisie au cours du processus, l'incorporation sera également interrompue.</Desc>
+		</Text>
+		<Text Name="Policy_God">
+			<DisplayName>Miracle</DisplayName>
+			<Desc>Laissez un disciple de Shendao faire un miracle ici.</Desc>
+		</Text>
+	</List>
+</Texts>

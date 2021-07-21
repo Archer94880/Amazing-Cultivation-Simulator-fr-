@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Wolf_1">
+			<Prefix>Absorber</Prefix>
+			<Suffix>Maw</Suffix>
+			<Desc>A natural secret body of wolf Yaoguai, drastically increases the essence acquisition rate when devouring items, but the amount of essence gained will be significantly reduced.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Drastically increases the essence acquisition rate from devouring items.\n Drastically reduces the amount of essence gained from devouring items.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Wolf_2">
+			<Prefix>Wildsoul</Prefix>
+			<Suffix>Body</Suffix>
+			<Desc>A natural secret body of wolf Yaoguai. Once achieved, it can drastically increase the physical strength and resistance to pain.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Drastically increases the physical cultivator's physical strength.\n Drastically increases the physical cultivator's pain endurance.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

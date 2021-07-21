@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Build_Discipline">
+			<DisplayName>Le Temple de la Discipline</DisplayName>
+			<Desc>Le Temple de la Discipline est l'endroit où les disciples reçoivent les initiations et organisent les cérémonies d'abstinence. Les roturiers peuvent également y assister. Déverrouille les politiques de Discipline. Gérez les troubles sociaux en affichant les punitions.</Desc>
+		</Text>
+		<Text Name="Build_Secret">
+			<DisplayName>Pavillon Secret</DisplayName>
+			<Desc>Le Pavillon Secret est situé au-dessus d'un coin de pièce, généralement inaccessible pour les roturiers. Déverrouille les politiques de complot. Déstabilisez la société ou les autres organismes par le biais de complots.</Desc>
+		</Text>
+		<Text Name="Build_Sermon">
+			<DisplayName>Temple Divin</DisplayName>
+			<Desc>Il y a des statues sculptées dans le Temple Divin. Les gens peuvent vénérer les statues et aller prêcher votre religion. Méthodes de prédication déverrouillées. Influencez le monde avec l'appel de notre secte.</Desc>
+		</Text>
+		<Text Name="Build_Recuit">
+			<DisplayName>Salle des Maîtres Spirituels</DisplayName>
+			<Desc>La salle des maîtres spirituels est utilisée pour les rites d'admission. Les bonnes personnes peuvent rejoindre notre secte ici. Compétences de recrutement déverrouillées. Utilisé pour recruter plus de talents.</Desc>
+		</Text>
+	</List>
+</Texts>

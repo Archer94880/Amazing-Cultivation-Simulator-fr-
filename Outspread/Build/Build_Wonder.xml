@@ -1,0 +1,84 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="StarDustLake">
+			<DisplayName>Lac étoilé</DisplayName>
+			<Desc>"Water from all directions converges here through canals and then flow out toward faraway lands, connecting the wide open world. Even the Milky Way converges here at night. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Policy: Learn form Nature unlocked.</Effect>
+		</Text>
+		<Text Name="XiuXianCollege">
+			<DisplayName>Universal Taoist School</DisplayName>
+			<Desc>"Education needs to be done in a quiet and isolated place, where even if students are bored, they have nowhere else to go. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Building cost reduced by 20%.</Effect>
+		</Text>
+		<Text Name="HugeToolCabin">
+			<DisplayName>Ingenuity Pagoda</DisplayName>
+			<Desc>"The Ingenuity Pagoda is no ordinary building. Each branch functions on its own and can do wonders that go beyond imagination. Use it to manufacture textiles, you will have the most comfortable cloth. Use it to manufacture weapons, you will have blades that cut through diamonds. " From 'Scroll of Creations'</Desc>
+			<Effect>Two vessels gifted.</Effect>
+		</Text>
+		<Text Name="CelestialCommercial">
+			<DisplayName>Cloud Chamber of Commerce</DisplayName>
+			<Desc>"Located in mountains, this Chamber of Commerce is protected by a huge state-of-the-art Formation and is the base for all transactions between immortals. We don't know why all sects do not have this Formation. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Can buy everything from merchants and sects with a 20% discount.</Effect>
+		</Text>
+		<Text Name="GreenBrothel">
+			<DisplayName>Green Pagoda</DisplayName>
+			<Desc>"Located on a lake, the Green Pagoda only looks like a fancy inn to most mortals, but for any cultivators, they offer special services that help clear your mind. Maybe this is one of the reasons why people choose to become cultivators. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Acquire a good mood on adventure here.</Effect>
+		</Text>
+		<Text Name="AppTower">
+			<DisplayName>Pagoda of Grace</DisplayName>
+			<Desc>"What great kindness it is to build a place for the deities to pass through. " From 'Scroll of Creations'</Desc>
+			<Effect>All Shendao cultivators will have 1 more area of Divine Realm.</Effect>
+		</Text>
+		<Text Name="RiverDam">
+			<DisplayName>River Weir</DisplayName>
+			<Desc>"Think about how many shameless tyrants it takes to finish a gigantic building. Can't the immortals come down and help out? " From 'Notes of the Six Laws'</Desc>
+			<Effect>All Shendao cultivators will have 1 more area of Divine Realm.</Effect>
+		</Text>
+		<Text Name="MountTemple">
+			<DisplayName>Hillside Pagoda</DisplayName>
+			<Desc>"A wide dam will eventually break at the slightest damage. Skyscraping mountains combined can become an impregnable stronghold that only the most skilled, insightful and courageous person can find. " From 'Scroll of Creations'</Desc>
+			<Effect>All Shendao cultivators will have 1 more area of Divine Realm.</Effect>
+		</Text>
+		<Text Name="SanQingTemple">
+			<DisplayName>Triple Purity Temple</DisplayName>
+			<Desc>"Everyone wants a place to worship the three pure ones. But it is such hard and unfulfilling work to build it in the mortal realm. " From 'Notes of the Six Laws'</Desc>
+			<Effect>One more connection with all sects.</Effect>
+		</Text>
+		<Text Name="TreeGrave">
+			<DisplayName>Deadwood Sea</DisplayName>
+			<Desc>"In the Southern Frontier, people believe that trees are like animals, if not buried, they will invite hatred and curses. Dead ancient trees are collected and made into shapes of live trees that seem to gather Qi from all creatures. " From 'Scroll of Creations'</Desc>
+			<Effect>Policy: Learn form Nature unlocked.</Effect>
+		</Text>
+		<Text Name="GroundAlter">
+			<DisplayName>Altar of Earth</DisplayName>
+			<Desc>"Deep in the remote mountains, a giant octangular hole is filled with stream water dripped down from the mountains, with a huge cauldron located in the middle. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Policy: Learn form Nature unlocked.</Effect>
+		</Text>
+		<Text Name="WaterTemple">
+			<DisplayName>Temple of Sumeru</DisplayName>
+			<Desc>"This temple is like a boat where you can feel it shaking but also know that it is safe and stable. I can't help but wonder if stupa is temple floating on water. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Formation Stability increased by 20%.</Effect>
+		</Text>
+		<Text Name="CelestialPalace">
+			<DisplayName>Purple Cloud Palace</DisplayName>
+			<Desc>"Purple Cloud Palace is a heavenly sanctum that is far-reaching and known to all. " From 'Scroll of Creations'</Desc>
+			<Effect>One more connection with all sects.</Effect>
+		</Text>
+		<Text Name="CircleTemple">
+			<DisplayName>Pagoda of Enigma</DisplayName>
+			<Desc>"The bigger the place, the more people gather. The Pagoda of Enigma has an unprecedently large plaza where countless visitors walk side by side. " From 'Notes of the Six Laws'</Desc>
+			<Effect>Beliefs/Hatred gathers here at a double rate.</Effect>
+		</Text>
+		<Text Name="CityMansion">
+			<DisplayName>City Housing</DisplayName>
+			<Desc>City Housing: Population increase rate in all locations raised by 100%. "City Housing is a brand new form of residence that can be built almost anywhere with few resources needed. But a larger population does not solve the problem of hunger. "</Desc>
+			<Effect>Population increase rate in this location raised by 100%.</Effect>
+		</Text>
+		<Text Name="RedTombstone">
+			<DisplayName>Red Stele Forest</DisplayName>
+			<Desc>"The Stele Forest keeps a record of the lives of many people. From emperors to ordinary people, the only thing they had in common is that they are all dead. " From 'Notes of the Six Laws' "The steles record the source of all changing history, telling stories of all worldly feelings and desires that amaze and humble the reader. It'll be a shame that people cannot go beyond what was recorded in the steles and will only turn into one of those stories. " From 'Scroll of Creations'</Desc>
+			<Effect>Sees through anybody and finds out one of their hobbies instantly.</Effect>
+		</Text>
+	</List>
+</Texts>

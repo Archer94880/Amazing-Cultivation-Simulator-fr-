@@ -1,0 +1,151 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_1_1">
+			<Prefix>Mixed Element</Prefix>
+			<Suffix>Arm - Left</Suffix>
+			<Desc>An entry-level secret body that is popular among physical cultivators, easy to achieve with well-balanced components and considerable development potential.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body performance.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the secret body attack accuracy.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Fundamentally increases the secret body power by a small amount.</Levels.2.Desc>
+			<Levels.3.Title>Fourth Layer</Levels.3.Title>
+			<Levels.3.Desc>Moderately increases the secret body's artifact suppression chance.</Levels.3.Desc>
+			<Levels.4.Title>Fifth Layer</Levels.4.Title>
+			<Levels.4.Desc>Fundamentally increases the secret body power by a moderate amount.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_1_1">
+			<Prefix>Mixed Element</Prefix>
+			<Suffix>Arm - Right</Suffix>
+			<Desc>An entry-level secret body that is popular among physical cultivators, easy to achieve with well-balanced components and considerable development potential.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body performance.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the secret body attack accuracy.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Fundamentally increases the secret body power by a small amount.</Levels.2.Desc>
+			<Levels.3.Title>Fourth Layer</Levels.3.Title>
+			<Levels.3.Desc>Moderately increases the secret body's artifact suppression chance.</Levels.3.Desc>
+			<Levels.4.Title>Fifth Layer</Levels.4.Title>
+			<Levels.4.Desc>Fundamentally increases the secret body power by a moderate amount.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_2">
+			<Prefix>Directional Concord</Prefix>
+			<Suffix>Measure</Suffix>
+			<Desc>Uses both arms as the core and waist as the axis, merging the three Yin elements Metal, Water and Moon in the left arm and the three Yang elements Wood, Fire and Sun in the right arm, and combines them into one. Excels at suppressing the enemy's artifact.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Drastically increases the secret body's artifact suppression chance.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_3">
+			<Prefix>The Five Elements</Prefix>
+			<Suffix>Fists</Suffix>
+			<Desc>Uses the energy of the Five Elements within the organs to drive both fists and attacks with five different forms. Excels at attacking the Qi barrier's weak point.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the secret body Qi barrier penetration.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Drastically increases the secret body Qi barrier penetration.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_4">
+			<Prefix>Eagle Bear</Prefix>
+			<Suffix>Combine Form</Suffix>
+			<Desc>The most advanced secret skill in Primordial Unity Body. Refines the back muscle to the extreme so that it resembles an eagle's wings. Refines the shoulders to the extreme so that it resembles a bear's torso. Wields power from the waist and sternum, works the spine like a dragon and fends off all attackers with both shoulders.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body attack accuracy.\n Drastically increases the secret body Qi barrier penetration.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_5">
+			<Prefix>Luster of Yang</Prefix>
+			<Suffix>Heart</Suffix>
+			<Desc>Uses extreme Yang energy to remold the heart to drastically increase the physical cultivator's power.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Moderately increases the physical cultivator's remold rate.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Drastically increases the ability improvement rate during the physical cultivator's furious berserk.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_6">
+			<Prefix>Glaze of Yin</Prefix>
+			<Suffix>Heart</Suffix>
+			<Desc>Uses extreme Yin energy to remold the heart to drastically increase the physical cultivator's blessing.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Moderately increases the physical cultivator's dodge rate.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Drastically reduces the physical cultivator's True Qi consumption rate of artifact suppression.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_7">
+			<Prefix>Heavenly Dragon</Prefix>
+			<Suffix>Spine</Suffix>
+			<Desc>Imitates the dragon and uses the head, spine and pelvis as the core to connect all the bones so that the whole body is controlled by spine movement. Effectively increases the body's attack ability.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the physical cultivator's secret body power by 5%.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Increases the physical cultivator's secret body power by 5%.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Increases the physical cultivator's secret body power by 5%.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_8">
+			<Prefix>Heaven and Earth</Prefix>
+			<Suffix>Furnace</Suffix>
+			<Desc>A secret body training method created following the dragon copulation theory for essence shaping used by cultivators with a Golden Core. Draws energy from heart and kidneys with techniques and converges them in the stomach, which is used as a furnace to drastically increase the food consumption and stamina generation. Practice it to the extreme to learn Whale Breathing that can quickly generate essence from nothing.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Moderately increases the physical cultivator's food consumption bonus.\n Moderately increases the physical cultivator's stamina replenishment bonus.\n Slightly increases the physical cultivator's appetite.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the essence acquisition rate from devouring items.\n Moderately increases the amount of essence gained from devouring items.\n Moderately increases the physical cultivator's appetite.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Drastically increases the physical cultivator's food consumption bonus.\n Drastically increases the physical cultivator's stamina replenishment bonus.\n Drastically increases the physical cultivator's appetite.</Levels.2.Desc>
+			<Levels.3.Title>Fourth Layer</Levels.3.Title>
+			<Levels.3.Desc>Drastically increases the essence acquisition rate from devouring items.\n Drastically increases the amount of essence gained from devouring items.\n Increases the physical cultivator's appetite by a huge amount.</Levels.3.Desc>
+			<Levels.4.Title>Fifth Layer</Levels.4.Title>
+			<Levels.4.Desc>Unlock Miracle: Whale Breathing</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_9">
+			<Prefix>Stark Root</Prefix>
+			<Suffix>Legs</Suffix>
+			<Desc>An entry-level secret body for physical cultivators, easy to achieve by remolding both legs with Wood energy and spreading roots into the ground as Wood is counteractive with Earth. Using this secret body resembles a deep-rooted old tree that is unmovable.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body performance.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the secret body defense success rate.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Fundamentally increases the secret body endurance by a small amount.</Levels.2.Desc>
+			<Levels.3.Title>Fourth Layer</Levels.3.Title>
+			<Levels.3.Desc>Moderately increases the secret body's artifact suppression chance.</Levels.3.Desc>
+			<Levels.4.Title>Fifth Layer</Levels.4.Title>
+			<Levels.4.Desc>Fundamentally increases the secret body power by a moderate amount.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_10">
+			<Prefix>Dark Turtle</Prefix>
+			<Suffix>Shell</Suffix>
+			<Desc>Imitates a dark tortoise's shell and uses ribs as the core to merge the muscles on waist, back, chest and stomach into a whole that resembles the tortoise shell. Counters all kinds of attack.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Fundamentally increases the secret body endurance by a moderate amount.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Moderately increases the secret body defense success rate.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Fundamentally increases the secret body endurance by a large amount.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11">
+			<Prefix>Void Thundercatch</Prefix>
+			<Suffix>Hand - Left</Suffix>
+			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True Qi that grants extreme agility to even catch thunder and lightning in void.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11_1">
+			<Prefix>Void Thundercatch</Prefix>
+			<Suffix>Hand - Right</Suffix>
+			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True Qi that grants extreme agility to even catch thunder and lightning in void.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.0.Desc>
+			<Levels.1.Title>Second Layer</Levels.1.Title>
+			<Levels.1.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.1.Desc>
+			<Levels.2.Title>Third Layer</Levels.2.Title>
+			<Levels.2.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.2.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,42 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>Loi sur les Six Voies de la Réincarnation</DisplayName>
+			<Desc>Une des véritables Lois élémentaires de la secte Taiyi. Le cultivateur sera le plus puissant au début de chaque état, mais à mesure que la culture progresse, le pouvoir va régresser progressivement jusqu'à ce que le cultivateur devient aussi faible que n'importe quel autre mortel. On ne peut renaître et progresser dans la culture qu'après avoir percée. Cette loi est donc populaire parmi les cultivateurs, mais peu y ont réussi.</Desc>
+			<SelectDesc>On sera puissant dans les batailles en cultivant selon cette loi, mais aucune habilité en alchimie ou en fabrication d'artefacts. Cependant, il faut faire l'expérience de la réincarnation et perdre progressivement son pouvoir jusqu'à l'ascension finale. Êtes-vous sûr de vouloir suivre cette loi?</SelectDesc>
+			<Stages.0.DisplayName>Crédo de l'Homme</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Renaissance</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Sinking</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Reincarnation</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Crédo de l'Animal</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Renaissance</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Sinking</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Reincarnation</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Credo du Fantôme</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Renaissance</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Sinking</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Reincarnation</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Crédo de l'Enfer</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Renaissance</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Sinking</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Reincarnation</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Credo d'Asura</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Renaissance</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Sinking</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Reincarnation</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Credo du Ciel</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Renaissance</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nCette percée peut être réalisée après plusieurs tentatives. \nCette percée est plus difficile pour les personnages peu intelligents.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Sinking</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Reincarnation</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>Après la réincarnation, on laissera la lLoi des six croyances derrière soi et on atteindra l'immortalité.</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

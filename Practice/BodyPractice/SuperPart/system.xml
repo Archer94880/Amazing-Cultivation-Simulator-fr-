@@ -1,0 +1,12 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<Prefix>Lost Item</Prefix>
+			<Desc>Lost Item</Desc>
+		</Text>
+		<Text Name="_SYS_CORE_">
+			<Prefix>Body</Prefix>
+			<Desc>Body</Desc>
+		</Text>
+	</List>
+</Texts>

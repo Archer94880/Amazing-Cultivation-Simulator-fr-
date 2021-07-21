@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_YaoShou">
+			<DisplayName>La loi de l'Instinct</DisplayName>
+			<Desc>Une loi en cours que les bêtes cultivent en se fiant à leur propre instinct.</Desc>
+			<Stages.0.DisplayName>État I</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>État I</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>État II</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>État II</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>État III</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>État III</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>État IV</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>État IV</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>État V</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>État V</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>État VI</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>État VI</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>État VII</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>État VII</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>État VIII</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>État VIII</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>État IX</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>État IX</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>État X</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>État X</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>État XI</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>État XI</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>État XII</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>État XII</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

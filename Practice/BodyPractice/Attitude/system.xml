@@ -1,0 +1,23 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Objet Perdu</DisplayName>
+		</Text>
+		<Text Name="SYS_ATK">
+			<DisplayName>Position d'Attaque</DisplayName>
+			<Desc>Le cultivateur physique attaquera le corps physique de l'ennemi avec toute sa force, mais la capacité de défense du corps secret sera réduite.</Desc>
+		</Text>
+		<Text Name="SYS_NORMAL">
+			<DisplayName>Position Commune</DisplayName>
+			<Desc>La position de combat standard pour les cultivateurs physiques. Il s'agit d'abord de s'occuper de l'artefact de l'ennemi, puis d'attaquer son corps physique. Cette position est aussi bonne en attaque qu'en défense et équilibrée en ce qui concerne les différentes capacités.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_ManJi">
+			<DisplayName>Volonté Barbare</DisplayName>
+			<Desc>Utilisez la forte volonté de combat pour ordonner à son corps de se déplacer et d'attaquer directement le corps physique de l'ennemi, ce qui augmente considérablement la capacité d'attaque tout en maintenant une défense instinctive.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_WangZhe">
+			<DisplayName>Volonté du Roi</DisplayName>
+			<Desc>Restez calme et posé tout en affrontant la bataille avec le cœur d'un roi. Réduit la consommation du corps secret.</Desc>
+		</Text>
+	</List>
+</Texts>

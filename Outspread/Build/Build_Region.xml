@@ -1,0 +1,22 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="MainHall_Base">
+			<DisplayName>Hall Principal</DisplayName>
+		</Text>
+		<Text Name="MainHall1">
+			<Desc>Un hall principal représente notre pouvoir ; c'est aussi là que les gens apprennent à nous connaître. Débloque la politiques de la Charité. Montrer notre gentillesse en faisant l'aumône.</Desc>
+		</Text>
+		<Text Name="MainHall2">
+			<DisplayName>Hall Principale Intermédiaire</DisplayName>
+			<Desc>Un hall principal représente notre pouvoir ; c'est aussi là que les gens apprennent à nous connaître. Débloque la politique de la Charité. Montrer notre gentillesse en faisant l'aumône. Un hall principal intermédiaire est plus grand et nous permet d'accueillir plus de bâtiments. Une statue peut être placée à l'intérieur pour transmettre directement la croyance à un cultivateur divin.</Desc>
+		</Text>
+		<Text Name="MainHall3">
+			<DisplayName>Hall Principal Avancée</DisplayName>
+			<Desc>Un hall principal représente notre pouvoir ; c'est aussi là que les gens apprennent à nous connaître. Débloque la politique de la Charité. Montrer notre gentillesse en faisant l'aumône. Un hall principal avancée élargit notre influence et permet de faire des merveilles à cet endroit.</Desc>
+		</Text>
+		<Text Name="MainHall4">
+			<DisplayName>Hall Principal Avancée</DisplayName>
+			<Desc>Un hall principal représente notre pouvoir ; c'est aussi là que les gens apprennent à nous connaître. Débloque la politique de la Charité. Montrer notre gentillesse en faisant l'aumône. Un hall principal avancé élargit notre influence et permet de construire des merveilles à cet endroit.</Desc>
+		</Text>
+	</List>
+</Texts>

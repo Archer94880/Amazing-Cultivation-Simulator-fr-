@@ -1,0 +1,25 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Chicken_1">
+			<Prefix>Solar</Prefix>
+			<Suffix>Needles</Suffix>
+			<Desc>A secret body passed down from the bloodline of chicken Yaoguai that converges forces of Yang to the beak and grants it Force of Destruction. Uses it to attack with the beak and excels at penetrating Qi barriers.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body Qi barrier penetration rate.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_2">
+			<Prefix>Skyfire</Prefix>
+			<Suffix>Crown</Suffix>
+			<Desc>A secret body passed down from the bloodline of chicken Yaoguai that remolds the crown with the Force of the Sun. Once achieved, remolding will become very efficient.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the physical cultivator's remold rate by a huge amount.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_3">
+			<Prefix>Prismatic</Prefix>
+			<Suffix>Aura</Suffix>
+			<Desc>A secret body passed down from the bloodline of chicken Yaoguai, which originally comes from a tail feather remolded by the Peacock Sage following the ancient creed of the Five Elements. Once achieved, nothing can escape its brush.</Desc>
+			<Levels.0.Title>First Layer</Levels.0.Title>
+			<Levels.0.Desc>Increases the secret body's artifact suppression chance by a huge amount.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

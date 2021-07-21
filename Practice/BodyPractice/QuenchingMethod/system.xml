@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Objet Perdu</DisplayName>
+		</Text>
+		<Text Name="SYS_DamageMethod">
+			<DisplayName>Injury Remold Spell</DisplayName>
+		</Text>
+		<Text Name="SYS_RebuildMethod">
+			<DisplayName>Reconstruction Spell</DisplayName>
+			<Desc>Reconstructs the lost part.</Desc>
+		</Text>
+		<Text Name="SYS_yishan">
+			<DisplayName>Spark of Inspiration</DisplayName>
+			<Desc>Spark of Inspiration</Desc>
+		</Text>
+	</List>
+</Texts>

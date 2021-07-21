@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_DaNeng">
+			<DisplayName>Loi Inconnue</DisplayName>
+			<Desc>Une loi exclusive transmise depuis les temps anciens, inconnu des autres.</Desc>
+			<Stages.0.DisplayName>Inconnu</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Inconnu</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Inconnu</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Inconnu</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Inconnu</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Inconnu</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Inconnu</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Inconnu</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Inconnu</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Inconnu</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Inconnu</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Inconnu</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Inconnu</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Inconnu</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Inconnu</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Inconnu</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Inconnu</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Inconnu</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Inconnu</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Inconnu</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Inconnu</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Inconnu</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Inconnu</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Inconnu</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

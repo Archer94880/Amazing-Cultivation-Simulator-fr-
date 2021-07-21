@@ -1,0 +1,12 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>Mauvaise Loi</DisplayName>
+			<Desc>Une loi perdue que personne ne connaît. \n(Mod Perdu)</Desc>
+			<Stages.0.DisplayName>Erreur</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Erreur</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Erreur</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Erreur</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

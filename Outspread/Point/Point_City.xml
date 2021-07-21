@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Point_Discipline">
+			<DisplayName>Empty Area</DisplayName>
+		</Text>
+		<Text Name="Point_Secret">
+			<DisplayName>Empty Area</DisplayName>
+		</Text>
+		<Text Name="Point_Sermon">
+			<DisplayName>Empty Area</DisplayName>
+		</Text>
+		<Text Name="Point_Recuit">
+			<DisplayName>Empty Area</DisplayName>
+		</Text>
+	</List>
+</Texts>
