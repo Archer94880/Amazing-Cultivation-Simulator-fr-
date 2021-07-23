@@ -1,240 +1,240 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Spell_SYSLOST">
-			<DisplayName>Empty</DisplayName>
-			<Desc>A lost building that nobody recognizes. \n(Empty.)</Desc>
+			<DisplayName>Vide</DisplayName>
+			<Desc>Un talisman que personne ne reconnaît.\n(Vide.)</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed1">
-			<DisplayName>Agility Talisman</DisplayName>
-			<Desc>Talisman used to raise move speed.</Desc>
+			<DisplayName>Talisman d'agilité</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la vitesse de déplacement.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow1">
-			<DisplayName>Cold-resistant Talisman</DisplayName>
-			<Desc>Talisman used to raise resistance to cold.</Desc>
+			<DisplayName>Talisman de résistance au froid</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la résistance au froid.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh1">
-			<DisplayName>Heat-resistant Talisman</DisplayName>
-			<Desc>Talisman used to raise resistance to heat.</Desc>
+			<DisplayName>Talisman de résistance à la chaleur</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la résistance à la chaleur.</Desc>
 		</Text>
 		<Text Name="Spell_ReadNovel">
-			<DisplayName>Story Talisman</DisplayName>
-			<Desc>A strange talisman from no where. It is easy to draw but has a strange effect, so it is widely spread among the cultivation realm. After equiped, one can focus on this talisman and see many maverlous stories from Webnovel and get released. However, it will easily catch one's attention and slow down work and cultivation speed.\n[color=#D06508]Thank Webnovel APP for supporting our game.[/color]</Desc>
+			<DisplayName>Talisman historique</DisplayName>
+			<Desc>Un étrange talisman venant de nulle part. Facile à dessiner mais a un effet étrange, il est donc largement répandu parmi les royaumes de la culture. Une fois équipé, on peut se concentrer et voir de nombreuses et merveilleuses histoires provenant de Webnovels. Toutefois, il attire facilement l'attention du porteur et ralentira donc la vitesse de travail et de culture.\n[color=#D06508]Merci à Webnovel APP pour soutenir notre jeu.[/color]</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed2">
-			<DisplayName>Talisman of Spiritual Travelling</DisplayName>
-			<Desc>Talisman used to raise move speed, as well as speed during adventures.</Desc>
+			<DisplayName>Talisman de voyage spirituel</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la vitesse de mouvement, ainsi que d'aventure.</Desc>
 		</Text>
 		<Text Name="Spell_RecoveryPower">
-			<DisplayName>Talisman of Curer</DisplayName>
-			<Desc>Talisman used to raise natural recovery rate.</Desc>
+			<DisplayName>Talisman de guérison</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la régénération naturelle.</Desc>
 		</Text>
 		<Text Name="Spell_VisionRadius">
-			<DisplayName>Talisman of Foreseer</DisplayName>
-			<Desc>Talisman used to improve range of views, and reduce time spent discovering a new location in adventure.</Desc>
+			<DisplayName>Talisman du voyant</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la distance de vue et réduire le temps pour découvrir de nouvelles localisations lors des aventures.</Desc>
 		</Text>
 		<Text Name="Spell_Fatigue">
-			<DisplayName>Talisman of Spiritual Cleansing</DisplayName>
-			<Desc>Talisman used to improve sleep quality and reduce tendency of fatigue.</Desc>
+			<DisplayName>Talisman du nettoyage spirituel</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la qualité du sommeil et réduire le besoin de repos.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition">
-			<DisplayName>Talisman of Qi Absorption</DisplayName>
-			<Desc>Used to raise efficiency of Qi absorption and fasting.</Desc>
+			<DisplayName>Talisman de l'absorption du Qi</DisplayName>
+			<Desc>Talisman utilisé pour augmenter l'absorption du Qi et diminuer la faim.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition1">
-			<DisplayName>Talisman of Fasting</DisplayName>
-			<Desc>Used to reduce food consumption rate.</Desc>
+			<DisplayName>Talisman de jeûne</DisplayName>
+			<Desc>Talisman utilisé pour diminuer la faim.</Desc>
 		</Text>
 		<Text Name="Spell_Hide">
-			<DisplayName>Talisman of Invisibility</DisplayName>
-			<Desc>Talisman used to hide your presence to some extent, become less identifiable by others during adventure, and reduce chances of obtaining reputation.</Desc>
+			<DisplayName>Talisman d'invisibilité</DisplayName>
+			<Desc>Talisman utilisé pour cacher sa présence aux autres, devenir moins identifiable par les autres pendant les aventures et réduit les chances d'obtenir la réputation.</Desc>
 		</Text>
 		<Text Name="Spell_Happy">
-			<DisplayName>Talisman of Lasting Joy</DisplayName>
-			<Desc>Talisman used to improve mood and reduce entertainment need.</Desc>
+			<DisplayName>Talisman de joie durable</DisplayName>
+			<Desc>Talisman utilisé pour augmenter le moral et réduire le besoin de divertissement.</Desc>
 		</Text>
 		<Text Name="Spell_LunHui_ShenShen">
-			<DisplayName>Prayer Talisman</DisplayName>
-			<Desc>Talisman formed by prayers of others, used to improve mood and stabilize mental state.</Desc>
+			<DisplayName>Talisman de prière</DisplayName>
+			<Desc>Talisman formé par les prières des autres, utilisé pour améliorer l'humeur et stabilise l'état mental.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow2">
-			<DisplayName>Talisman of Supreme Yang</DisplayName>
-			<Desc>Talisman used to drastically raise resistance to cold.</Desc>
+			<DisplayName>Talisman du Yang suprême</DisplayName>
+			<Desc>Talisman utilisé pour augmenter drastiquement la résistance au froid.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh2">
-			<DisplayName>Talisman of Supreme Yin</DisplayName>
-			<Desc>Talisman used to drastically raise resistance to heat.</Desc>
+			<DisplayName>Talisman du Yin suprême</DisplayName>
+			<Desc>Talisman utilisé pour augmenter drastiquement la résistance à la chaleur.</Desc>
 		</Text>
 		<Text Name="Spell_Intelligence">
-			<DisplayName>Talisman of Civil Prosperity</DisplayName>
-			<Desc>Used to clear mind and improve learning abilities.</Desc>
+			<DisplayName>Talisman de prospérité civile</DisplayName>
+			<Desc>Talisman utilisé pour nettoyer l'esprit et augmenter les capacités d'apprentissage.</Desc>
 		</Text>
 		<Text Name="Spell_Fight">
-			<DisplayName>Talisman of Military Prosperity</DisplayName>
-			<Desc>Used to improve fighting abilities and pain endurance.</Desc>
+			<DisplayName>Talisman de prospérité militaire</DisplayName>
+			<Desc>Talisman utilisé pour augmenter les capacités de combats et augmenter la résistance à la douleur.</Desc>
 		</Text>
 		<Text Name="Spell_GlobalEfficiency">
-			<DisplayName>Talisman of Diligence</DisplayName>
-			<Desc>Used to improve work efficiency.</Desc>
+			<DisplayName>Talisman de diligence</DisplayName>
+			<Desc>Talisman utilisé pour augmenter l'efficacité au travail.</Desc>
 		</Text>
 		<Text Name="Spell_MadeQualityAddValue">
-			<DisplayName>Talisman of Craftsmanship</DisplayName>
-			<Desc>Used to improve quality of crafted items.</Desc>
+			<DisplayName>Talisman de l'artisan</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la qualité des objets fabriqués.</Desc>
 		</Text>
 		<Text Name="Spell_Yield">
-			<DisplayName>Talisman of Fertility</DisplayName>
-			<Desc>Used to raise yield during hunting, farming and harvesting.</Desc>
+			<DisplayName>Talisman de la fertilité</DisplayName>
+			<Desc>Talisman utilisé pour augmenter le rendement pendant la chasse, l'agriculture et la récolte.</Desc>
 		</Text>
 		<Text Name="Spell_Treatment">
-			<DisplayName>Talisman of Medicinal Mastery</DisplayName>
-			<Desc>Used to raise healing success rate and its effect.</Desc>
+			<DisplayName>Talisman de la maîtrise médicale</DisplayName>
+			<Desc>Talisman utilisé pour augmenter le taux de succès des soins et de leurs effets.</Desc>
 		</Text>
 		<Text Name="Spell_MindState1">
-			<DisplayName>Talisman of Tranquil Heart</DisplayName>
-			<Desc>Talisman used to slightly improve mental state.</Desc>
+			<DisplayName>Talisman du coeur apaisé</DisplayName>
+			<Desc>Talisman utilisé pour légèrement améliorer l'état mental.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
-			<DisplayName>Talisman of Heavenly Heart</DisplayName>
-			<Desc>Talisman used to slightly improve cultivation speed.</Desc>
+			<DisplayName>Talisman du coeur apaisé</DisplayName>
+			<Desc>Talisman utilisé pour augmenter légèrement la vitesse de culture.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2">
-			<DisplayName>Talisman of Cave Mind</DisplayName>
-			<Desc>Talisman used to improve mental state.</Desc>
+			<DisplayName>Talisman de l'esprit des cavernes</DisplayName>
+			<Desc>Talisman utilisé pour améliorer l'état mental.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2_LunHui">
-			<DisplayName>Talisman of Divinity Mind</DisplayName>
-			<Desc>Scarce talisman passed down from thousands of years ago, created by the ancient immortal Yuan rewriting the Talisman of Divine Caves. \n[color=#D06508]This is in appreciation of the first player to successfully draw a talisman of 100% quality: Actually not me[/color]</Desc>
+			<DisplayName>Talisman de l'esprit divin</DisplayName>
+			<Desc>Rare Talisman transmis depuis des millénaires, créé par l'ancien immortel Yuan réécrivant le talisman des grottes divines\n[color=#D06508]Il s'agit d'une reconnaissance pour le premier joueur à réussir à dessiner un talisman d'une qualité de 100%[/color]</Desc>
 		</Text>
 		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>Talisman of Truth Comprehension</DisplayName>
-			<Desc>Used to raise the chance of breakthrough.</Desc>
+			<DisplayName>Talisman de compréhension de la vérité</DisplayName>
+			<Desc>Talisman utilisé pour augmenter les chances de percées.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
-			<DisplayName>Talisman of Oblivion Comprehension</DisplayName>
-			<Desc>Used to raise cultivation speed.</Desc>
+			<DisplayName>Talisman de compréhension du néant</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la vitesse de culture.</Desc>
 		</Text>
 		<Text Name="Spell_WorldMapFlySpeed">
-			<DisplayName>Talisman of Departing Shadow</DisplayName>
-			<Desc>Used to raise long-distance fly speed with a artifact.</Desc>
+			<DisplayName>Talisman de l'ombre partante</DisplayName>
+			<Desc>Talisman utilisé pour augmenter la vitesse de vol long distance avec un artefact.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_SuccessRateAddV">
-			<DisplayName>Talisman of Riches</DisplayName>
-			<Desc>Talisman used to improve success rate of artifact crafting.</Desc>
+			<DisplayName>Talisman de richesse</DisplayName>
+			<Desc>Talisman utilisé pour augmenter le taux de succès dans la fabrication d'artefact.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
-			<DisplayName>Wonder Talisman</DisplayName>
-			<Desc>Used to slightly raise the tier of crafted artifact.</Desc>
+			<DisplayName>Talisman merveilleux</DisplayName>
+			<Desc>Talisman utilisé pour augmenter légèrement le rang de l'artefact fabriqué.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_SuccessRateAddV">
-			<DisplayName>Tusita Talisman</DisplayName>
-			<Desc>Used to improve success rate of Alchemy.</Desc>
+			<DisplayName>Talisman de Tushita</DisplayName>
+			<Desc>Talisman utilisé pour augmenter le taux de succès de l'alchimie.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_YieldAddP">
-			<DisplayName>Impermanence Talisman</DisplayName>
-			<Desc>Used to slightly raise yield of Alchemy.</Desc>
+			<DisplayName>Talisman de l'impermanence</DisplayName>
+			<Desc>Talisman utilisé pour augmenter légèrement le taux de succès de l'alchimie.</Desc>
 		</Text>
 		<Text Name="Spell_Fu">
-			<DisplayName>Illustration of Everlasting Prosperity</DisplayName>
-			<Desc>Used to improve mood and mental state of whomever wears it and grant good luck. Happy Spring Festival and all the best!</Desc>
+			<DisplayName>Illustration de la prospérité éternelle</DisplayName>
+			<Desc>Utilisé pour améliorer l'humeur et la santé mentale de quiconque le porte et accorde une grande chance. Joyeux nouvel an chinois et tous mes voeux!</Desc>
 		</Text>
 		<Text Name="Spell_Lu">
-			<DisplayName>Illustration of Everlasting Status</DisplayName>
-			<Desc>Used to improve health and material gains for whomever wears it. Happy Spring Festival and all the best!</Desc>
+			<DisplayName>Illustration du statut éternel</DisplayName>
+			<Desc>Utilisé pour augmenter la santé et les gains matériels pour quiconque le porte. Joyeux nouvel an chinois et tous mes voeux!</Desc>
 		</Text>
 		<Text Name="Spell_Shou">
-			<DisplayName>Illustration of Everlasting Longevity</DisplayName>
-			<Desc>Used to raise lifespan and immunity to diseases for whomever wears it. Happy Spring Festival and all the best!</Desc>
+			<DisplayName>Illustration de la longévité éternelle</DisplayName>
+			<Desc>Utilisé pour augmenter la longévité et donne l'immunité aux maladie pour quiconque le porte. Joyeux nouvel an chinois et tous mes voeux!</Desc>
 		</Text>
 		<Text Name="Spell_Shield1">
-			<DisplayName>Darkarmor Talisman</DisplayName>
-			<Desc>Increases the wearer's Protection.</Desc>
+			<DisplayName>Talisman de l'armure sombre</DisplayName>
+			<Desc>Augmente la protection du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_Shield2">
-			<DisplayName>Heavenarmor Talisman</DisplayName>
-			<Desc>Increases the wearer's Protection skill level.</Desc>
+			<DisplayName>Talisman de l'armure céleste</DisplayName>
+			<Desc>Augmente le niveau de protection du porteur</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Jin">
-			<DisplayName>Metalarmor Talisman</DisplayName>
-			<Desc>Increases the wearer's resistance to Metal Damage.</Desc>
+			<DisplayName>Talisman de l'armure du métal</DisplayName>
+			<Desc>Augmente la résistance du porteur au dégâts de l'attribut Métal.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Mu">
-			<DisplayName>Woodarmor Talisman</DisplayName>
-			<Desc>Increases the wearer's resistance to Wood Damage.</Desc>
+			<DisplayName>Talisman de l'armure de bois</DisplayName>
+			<Desc>Augmente la résistance du porteur au dégâts de l'attribut Bois.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Shui">
-			<DisplayName>Waterarmor Talisman</DisplayName>
-			<Desc>Increases the wearer's resistance to Water Damage.</Desc>
+			<DisplayName>Talisman de l'armure de l'eau</DisplayName>
+			<Desc>Augmente la résistance du porteur au dégâts de l'attribut Eau.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Huo">
-			<DisplayName>Firearmor Talisman</DisplayName>
-			<Desc>Increases the wearer's resistance to Fire Damage.</Desc>
+			<DisplayName>Talisman de l'armure de feu</DisplayName>
+			<Desc>Augmente la résistance du porteur au dégâts de l'attribut Feu.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Tu">
-			<DisplayName>Eartharmor Talisman</DisplayName>
-			<Desc>Increases the wearer's resistance to Earth Damage.</Desc>
+			<DisplayName>Talisman de l'armure de terre</DisplayName>
+			<Desc>Augmente la résistance du porteur au dégâts de l'attribut Terre.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao1">
-			<DisplayName>Sharpsword Talisman</DisplayName>
-			<Desc>Increases Artifact Power.</Desc>
+			<DisplayName>Talisman de l'épée tranchante</DisplayName>
+			<Desc>Augmente la puissance de l'artefact.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao2">
-			<DisplayName>Divinesword Talisman</DisplayName>
-			<Desc>Increases the wearer's Artifact Mastery skill level.</Desc>
+			<DisplayName>Talisman de l'épée divine</DisplayName>
+			<Desc>Augmente le niveau de maîtrise d'artefact du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao3">
-			<DisplayName>Spiritsword Talisman</DisplayName>
-			<Desc>Increases the wearer's Artifact Qi Recovery Multiplier.</Desc>
+			<DisplayName>Talisman de l'épée spirituelle</DisplayName>
+			<Desc>Augmenter le taux de recouvrement du Qi de l'artefact du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao4">
-			<DisplayName>Sacredsword Talisman</DisplayName>
-			<Desc>Fundamentally increases the wearer's Artifact Power, and comprehensively improves Artifact abilities.</Desc>
+			<DisplayName>Talisman de l'épée sacrée</DisplayName>
+			<Desc>Augmente considérablement la puissance de l'artefact du porteur ainsi que globalement la maîtrise de l'artefact.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill1">
-			<DisplayName>Vilecurse Talisman</DisplayName>
-			<Desc>Increases the wearer's Spell Power.</Desc>
+			<DisplayName>Talisman de la malédiction</DisplayName>
+			<Desc>Augmente la puissance des sorts du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill2">
-			<DisplayName>Divine Curse Talisman</DisplayName>
-			<Desc>Increases the wearer's Spell skill level.</Desc>
+			<DisplayName>Talisman divin maudit</DisplayName>
+			<Desc>Augmente le niveau de maîtrise des sorts du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill3">
-			<DisplayName>Spiritcurse Talisman</DisplayName>
-			<Desc>Fundamentally decreases the wearer's Qi Cost of Spells.</Desc>
+			<DisplayName>Talisman spirituel maudit</DisplayName>
+			<Desc>Diminue considérablement le coût en Qi des sorts.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill4">
-			<DisplayName>Sacredcurse Talisman</DisplayName>
-			<Desc>Fundamentally increases the wearer's Spell Power and Qi Cost.</Desc>
+			<DisplayName>Talisman sacré maudit</DisplayName>
+			<Desc>Augmente considérablement la puissance et le coût en Qi des sorts du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian1">
-			<DisplayName>Heavensent Talisman</DisplayName>
-			<Desc>Increases the wearer's Five Attributes.</Desc>
+			<DisplayName>Talisman de l'envoyé divin</DisplayName>
+			<Desc>Augmente les cinq attributs du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian2">
-			<DisplayName>Heavenshrouding Talisman</DisplayName>
-			<Desc>Decreases the wearer's Attainment.</Desc>
+			<DisplayName>Talisman de l'enveloppement du ciel</DisplayName>
+			<Desc>Diminue le taux de réalisation du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian3">
-			<DisplayName>Latent Talisman</DisplayName>
-			<Desc>Increases the wearer's Potential.</Desc>
+			<DisplayName>Talisman du potentiel caché</DisplayName>
+			<Desc>Augmente le potentiel du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_JieTian1">
 			<DisplayName>Heavenlent Talisman</DisplayName>
-			<Desc>Increases the wearer's Attainment.</Desc>
+			<Desc>Augmenter le taux de réalisation du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice1">
-			<DisplayName>Talisman of Divine Residence</DisplayName>
-			<Desc>Increases Max Divine Residents limit for the wearer.</Desc>
+			<DisplayName>Talisman de résistance divine</DisplayName>
+			<Desc>Augmente le nombre limite maximum de résidents du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice2">
-			<DisplayName>Talisman of Divine Perception</DisplayName>
-			<Desc>Increases the wearer's Belief Gains Bonus.</Desc>
+			<DisplayName>Talisman de perception divine</DisplayName>
+			<Desc>Augmente le bonus de gain de foi du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice3">
-			<DisplayName>Talisman of Divine Authority</DisplayName>
-			<Desc>Increases the wearer's Divinity.</Desc>
+			<DisplayName>Talisman de l'autorité divine</DisplayName>
+			<Desc>Augmente la divinité du porteur.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice4">
-			<DisplayName>Talisman of Divine Concealment</DisplayName>
-			<Desc>Decreases the wearer's Divinity.</Desc>
+			<DisplayName>Talisman de dissimulation divine</DisplayName>
+			<Desc>Diminue la divinité du porteur.</Desc>
 		</Text>
 	</List>
 </Texts>
